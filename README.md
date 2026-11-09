@@ -18,10 +18,11 @@ My academic journey is driven by a clear goal: **bridging the gap between hardwa
 
 ### 🛠️ Tech Stack & Core Competencies
 
-**Programming & Hardware Description Languages (HDL)**  
+**Programming & Frameworks**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2B5B84?style=flat-square&logo=ram&logoColor=white)
 
@@ -31,8 +32,9 @@ My academic journey is driven by a clear goal: **bridging the gap between hardwa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Specialized Domains**  
+* 🧠 **Neuromorphic Computing & AI:** Experience with Artificial Neural Networks (**ANN**) and Spiking Neural Networks (**SNN**) for biosignal classification, pattern recognition, and bio-inspired processing.
 * ⚡ **FPGA & Digital Logic Design:** RTL design with **Verilog**, open-source EDA flow (**Yosys** synthesis, **nextpnr** P&R), and waveform simulation/debugging via **GTKWave** on **Ubuntu/Linux**.
-* 🧠 **Neural Interfaces & BCI:** Brain-Computer Interfaces, HCI.
+* 🌐 **Neural Interfaces & BCI:** Brain-Computer Interfaces, HCI.
 * 📈 **Biosignal Processing:** EEG, EMG, ECG acquisition & digital filtering.
 * ⚙️ **3D CAD & Prototyping:** 3D Modeling and mechanical design using **SolidWorks**.
 * 🔌 **Electronics:** Circuit Design, Medical Device Development.
